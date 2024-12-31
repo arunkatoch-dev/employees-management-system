@@ -1,0 +1,29 @@
+[
+  {
+    "id": "AK1786",
+    "dob": "25/07/2000",
+    "name": "Arun Katoch",
+    "address": "xyz village Street No.1786 Pin 178635",
+    "designation": "MERN Stack Developer",
+    "phone": "9876565415",
+    "email": "arunkatochxyz@gmail.com"
+  },
+  {
+    "id": "PB5408",
+    "dob": "29/12/1999",
+    "name": "Pankaj Bhardwaj",
+    "address": "VPO xyz village Street No.5408 Pin 175408",
+    "designation": "SEO Executive",
+    "phone": "8748595408",
+    "email": "pankajbhardwaj@gmail.com"
+  },
+  {
+    "id": "SS2802",
+    "dob": "28/02/2001",
+    "name": "Shubham Sharma",
+    "address": "VPO xyz village Street No.2802 Pin 175408",
+    "designation": "Data Scientist",
+    "phone": "8748592802",
+    "email": "shubhamsharma@gmail.com"
+  }
+]

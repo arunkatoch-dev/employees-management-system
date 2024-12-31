@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Free Web tutorials" />
+    <meta
+      name="keywords"
+      content="vanilla js projects, CSS, JavaScript, Arun katoch, Arun developer, employees management system"
+    />
+    <meta name="author" content="Arun Katoch" />
+    <meta
+      name="description"
+      content="Empoyees Management System Project. This project is created by Arun Katoch for learning purpose. This project is created using vanilla js, HTML and CSS. "
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Employees Management System</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <h1>Employees:</h1>
+      <div class="employees_Container">
+        <div class="employees_Heading_Container">
+          <span>Name</span>
+          <span>Actions</span>
+        </div>
+        <div class="all_Employees" id="employees_Title"></div>
+      </div>
+    </aside>
+    <section class="container">
+      <div class="addNew-Employee-Container">
+        <button id="addNewEmpBtn">Add New Employee</button>
+      </div>
+      <div class="emp_detail_Container">
+        <div class="inner_Container" id="emp_Details_Container"></div>
+      </div>
+    </section>
+    <section class="hidden" id="editOuterContainer"></section>
+    <section class="hidden" id="addNewEmpOuterContainer"></section>
+    <script src="script.js"></script>
+  </body>
+</html>
